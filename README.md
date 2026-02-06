@@ -13,6 +13,11 @@ Feature 3: Fully responsive design.
 # 🛠 Tech Stack
 HTML5, CSS3
 
+# Lighthouse Performance
+https://pagespeed.web.dev/analysis/https-thakurabhinavsinghchauhan-github-io-Prodesk-it-digital-agency/f0vu1barxb?form_factor=desktop
+
+<img width="1883" height="951" alt="image" src="https://github.com/user-attachments/assets/3ef17c00-983f-479c-b6d4-ac2d850d52f0" />
+
 
 # 📸 Screenshots
 
