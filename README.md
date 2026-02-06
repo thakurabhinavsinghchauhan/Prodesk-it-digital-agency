@@ -11,7 +11,7 @@ Feature 2: User-friendly UI/UX.
 Feature 3: Fully responsive design.
 
 # 🛠 Tech Stack
-HTML5, CSS3
+HTML5, CSS3 and Java Script
 
 # Lighthouse Performance
 https://pagespeed.web.dev/analysis/https-thakurabhinavsinghchauhan-github-io-Prodesk-it-digital-agency/f0vu1barxb?form_factor=desktop
